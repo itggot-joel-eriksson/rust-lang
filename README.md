@@ -33,6 +33,7 @@ error: aborting due to previous error
 Rust har en statisk typning. Exemplet nedan genererar ett felmeddelande vid kompilering.
 #### Exempel:
 ```rust
+//dynamisk_statisk-typning.rs
 fn main() {
     let mut x = 20;
     println!("{}", x);
@@ -75,6 +76,7 @@ Rust är inte nödvändigtvis ett starkt funktionellt språk, men utan nyckelord
 Rust har stöd för objektorienterad programmering och både klasser och objekt finns att skapa.
 #### Exempel:
 ```rust
+//klass_objekt.rs
 //Exempel på hur man skapar klasser och objekt
 ```
 
@@ -94,4 +96,4 @@ Det absolut mest kända programmet som skrivits i Rust är [Mozillas Firefox](ht
 ...
 
 ## Kodexempel
-Exempel skrivna i Rust finns i [examples/](examples).
+Exempel skrivna i Rust finns i [exempel/](exempel).
