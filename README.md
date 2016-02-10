@@ -88,7 +88,7 @@ Rust utvecklas främst av Rust Project Developers som också äger upphovsrätte
 Enligt deras hemsida är antalet personer som är med och bidrar till utvecklingen av Rust över 1200 personer.
 
 ## Användningsområde
-Rust har inget uttalat användningsområde, men det bär vara samma användningsområde som C, alltså i stort sett vad som önskas. Det finns till exempel en PlayStation emulator som skrivits i Rust med OpenGL.
+Rust har inget uttalat användningsområde, men det bör vara samma användningsområde som C, alltså i stort sett vad som önskas. Det finns till exempel en PlayStation emulator som skrivits i Rust med OpenGL.
 
 Det absolut mest kända programmet som skrivits i Rust är [Mozillas Firefox](https://developer.mozilla.org/en-US/Firefox/Building_Firefox_with_Rust_code). Även om implementeringen inte är helt klar ännu så finns vissa delar klara (skrivna i Rust) i senare versioner av Firefox.
 
